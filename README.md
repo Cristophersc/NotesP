@@ -6,17 +6,17 @@ Esta es una aplicacion de notas para android, construida con kotlin y jetpack co
 
 * Caracteristicas
   
-- Crear notas con titulo y contenido
-- Editarlas.
-- Eliminarlas.
-- Deshacer la eliminacion de las mismas.
-- Cambiar el color de fondo. 
+Crear notas con titulo y contenido
+Editarlas.
+Eliminarlas.
+Deshacer la eliminacion de las mismas.
+Cambiar el color de fondo. 
 
 * Tecnologias utilizadas
-- JetPack Compose
-- Kotlin
-- Dagger.hilt
-- Java
+JetPack Compose
+Kotlin
+Dagger.hilt
+Java
 * Instalacion
 1- Clonar el repositorio
 	Abrir una terminal ejecutando el siguiente comando:
