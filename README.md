@@ -6,8 +6,8 @@ Esta es una aplicacion de notas para android, construida con kotlin y jetpack co
 
 * Caracteristicas
   
-1-Crear notas con titulo y contenido
-2-Editarlas.
+1-Crear notas con titulo y contenido. &
+2-Editarlas.&
 3-Eliminarlas.
 4-Deshacer la eliminacion de las mismas.
 5-Cambiar el color de fondo. 
