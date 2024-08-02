@@ -4,7 +4,7 @@ https://drive.google.com/file/d/1iRJ4MBrjmwOWe0AkJcJzzkSoUXm6PxKH/view?usp=shari
 
 Esta es una aplicacion de notas para android, construida con kotlin y jetpack compose. La aplicacion permite guardar, editar y modificar el color de fondo de las notas ya gaurdadas. 
 
-<em> # Caracteristicas </em>
+<em>  Caracteristicas </em>
   
 * Crear notas con titulo y contenido. 
 * Editarlas.
